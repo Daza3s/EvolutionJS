@@ -4,7 +4,7 @@
     "version": "1.0.0",
 
     "dependencies": {
-       "Vector2d": "git@github.com:Daza3s/EvolutionJS.git#commit-ish"
+       "Vector2d": "git@github.com:Daza3s/Vector2d.git#commit-ish"
     }
     
 }
