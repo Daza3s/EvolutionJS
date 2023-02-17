@@ -1,3 +1,10 @@
 {
-    "type": "module"
+    "type": "module",
+    "name": "my_package",
+    "version": "1.0.0",
+
+    "dependencies": {
+       "Vector2d": "git@github.com:Daza3s/EvolutionJS.git#commit-ish"
+    }
+    
 }
